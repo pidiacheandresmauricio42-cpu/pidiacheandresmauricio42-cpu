@@ -16,8 +16,6 @@ Me interesa la tecnología, el diseño digital y el mundo gaming. Estoy construy
 - 🛠️ **Mi forma de avanzar:** aprender haciendo, probar ideas y mejorar cada proyecto.
 
 ## 🧪 Tecnologías y recursos
-
- MDN" />
   
   </a>
 </div>
