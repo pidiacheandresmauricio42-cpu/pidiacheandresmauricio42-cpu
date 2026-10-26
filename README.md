@@ -20,9 +20,7 @@ Me interesa la tecnología, el diseño digital y el mundo gaming. Estoy construy
 ## 🧪 Tecnologías y recursos
 
  MDN" />
-  </a>
-  <a href="https://docs.github.com/es" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-documentación-071A2F?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Documentación oficial de GitHub" />
+  
   </a>
 </div>
 
