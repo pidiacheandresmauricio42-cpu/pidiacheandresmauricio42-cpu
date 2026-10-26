@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">A.M.P Cyberpunk Banner</title>
+  <desc id="desc">A dark futuristic banner with cyan and violet neon lines, grid patterns, and the text A.M.P — Digital Creator.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070A12"/>
+      <stop offset="55%" stop-color="#10102B"/>
+      <stop offset="100%" stop-color="#080B15"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00F5FF"/>
+      <stop offset="50%" stop-color="#7B2CFF"/>
+      <stop offset="100%" stop-color="#FF2BD6"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00F5FF" stop-opacity=".14"/>
+      <stop offset="100%" stop-color="#BC13FE" stop-opacity=".04"/>
+    </linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#00F5FF" stroke-opacity=".12" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="clip"><rect x="0" y="0" width="1200" height="360" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="360" fill="url(#bg)"/>
+    <rect width="1200" height="360" fill="url(#grid)"/>
+    <path d="M770 -30L1020 -30L700 390L450 390Z" fill="#BC13FE" opacity=".08"/>
+    <path d="M980 -30L1080 -30L760 390L660 390Z" fill="#00F5FF" opacity=".08"/>
+    <path d="M0 292L220 292L260 252L420 252" fill="none" stroke="#00F5FF" stroke-opacity=".7" stroke-width="2"/>
+    <path d="M805 48L1040 48L1070 78L1200 78" fill="none" stroke="#BC13FE" stroke-opacity=".85" stroke-width="2"/>
+    <path d="M910 300L1040 300L1080 260L1200 260" fill="none" stroke="#00F5FF" stroke-opacity=".6" stroke-width="2"/>
+    <rect x="44" y="42" width="1112" height="276" rx="16" fill="url(#panel)" stroke="url(#neon)" stroke-opacity=".8" stroke-width="1.5"/>
+    <path d="M44 86H240L260 66H430" fill="none" stroke="#00F5FF" stroke-width="2" stroke-opacity=".9"/>
+    <path d="M770 318H940L960 298H1156" fill="none" stroke="#BC13FE" stroke-width="2" stroke-opacity=".9"/>
+    <g fill="#00F5FF" font-family="Consolas, 'Courier New', monospace" font-size="14" letter-spacing="3">
+      <text x="78" y="76">PROFILE.EXE</text>
+      <text x="956" y="76" fill="#BC13FE">MODE: CYBER</text>
+      <text x="78" y="286" fill="#8B949E" font-size="12" letter-spacing="2">HTML // CREATIVE WEB // LEVEL UP</text>
+    </g>
+    <g filter="url(#glow)">
+      <text x="76" y="194" fill="#00F5FF" opacity=".55" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="98" letter-spacing="5">A.M.P</text>
+      <text x="72" y="190" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="98" letter-spacing="5">A.M.P</text>
+    </g>
+    <rect x="82" y="215" width="430" height="3" fill="url(#neon)"/>
+    <text x="82" y="250" fill="#C9D1D9" font-family="Consolas, 'Courier New', monospace" font-size="21" letter-spacing="2">DIGITAL CREATOR / PLAYER 01</text>
+    <g transform="translate(830 118)">
+      <path d="M0 0H238V128H0Z" fill="#080B15" fill-opacity=".65" stroke="#00F5FF" stroke-opacity=".7"/>
+      <path d="M16 20H220M16 108H220" stroke="#BC13FE" stroke-opacity=".65"/>
+      <circle cx="34" cy="42" r="7" fill="#00F5FF"/>
+      <circle cx="57" cy="42" r="7" fill="#BC13FE"/>
+      <circle cx="80" cy="42" r="7" fill="#39FF14"/>
+      <path d="M25 68H95L109 82H150M25 88H65L78 76H115" fill="none" stroke="#00F5FF" stroke-width="2" stroke-opacity=".9"/>
+      <text x="24" y="122" fill="#C9D1D9" font-family="Consolas, 'Courier New', monospace" font-size="11" letter-spacing="2">SYSTEM ONLINE</text>
+    </g>
+    <g fill="#00F5FF" opacity=".9">
+      <circle cx="710" cy="112" r="3"/><circle cx="744" cy="148" r="2"/><circle cx="774" cy="98" r="2"/><circle cx="786" cy="254" r="3"/>
+    </g>
+    <g fill="#BC13FE" opacity=".9">
+      <circle cx="1094" cy="116" r="3"/><circle cx="1070" cy="150" r="2"/><circle cx="1130" cy="204" r="2"/>
+    </g>
+  </g>
+</svg>
