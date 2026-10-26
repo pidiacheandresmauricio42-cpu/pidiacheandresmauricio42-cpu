@@ -19,17 +19,7 @@ Me interesa la tecnología, el diseño digital y el mundo gaming. Estoy construy
 
 ## 🧪 Tecnologías y recursos
 
-Estos enlaces llevan a documentación y recursos reales; no son botones decorativos.
-
-<div align="center">
-  <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/HTML5-aprendiendo-0B1F17?style=for-the-badge&logo=html5&logoColor=39FF88" alt="Aprender HTML5 — documentación de MDN" />
-  </a>
-  <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/CSS3-siguiente%20paso-071A2F?style=for-the-badge&logo=css3&logoColor=38BDF8" alt="Aprender CSS3 — documentación de MDN" />
-  </a>
-  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/JavaScript-en%20ruta-0B1F17?style=for-the-badge&logo=javascript&logoColor=FACC15" alt="Aprender JavaScript — documentación de MDN" />
+ MDN" />
   </a>
   <a href="https://docs.github.com/es" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-documentación-071A2F?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Documentación oficial de GitHub" />
