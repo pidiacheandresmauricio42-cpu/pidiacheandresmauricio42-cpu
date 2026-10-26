@@ -6,8 +6,6 @@
   <p>Aprendiendo, practicando y convirtiendo ideas en proyectos web reales.</p>
 </div>
 
----
-
 ## ⚡ Sobre mí
 
 Me interesa la tecnología, el diseño digital y el mundo gaming. Estoy construyendo mis bases en desarrollo web, empezando por HTML y avanzando paso a paso hacia sitios más completos, visuales y adaptables.
